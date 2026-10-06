@@ -11,6 +11,8 @@ I'm currently a Software Programmer/Analyst at San Diego Unified School District
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/mirza-ishraq)
 [![Personal Site](https://img.shields.io/badge/Personal_Site-08090A?style=for-the-badge&logo=astro&logoColor=white)](https://my-space.io)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/myspaceio)
+[![Newsletter](https://img.shields.io/badge/Newsletter-08090A?style=for-the-badge&logoColor=white)](https://my-space.io/digest/)
+
 
 ## Professional experience
 

@@ -52,8 +52,8 @@ Python, Bash, and LDAP automation for 10k+ user accounts, plus an API-driven pro
 
 ## Education
 
-- M.Sc. in Big Data Analytics, San Diego State University
-- B.Sc. in Computer Information Science, California State University, Northridge
+- M.Sc. in Big Data Analytics, San Diego State University (2021 - 2023)
+- B.Sc. in Computer Information Science, California State University, Northridge (2016 - 2021)
 
 ## What I've built
 

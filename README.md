@@ -1,6 +1,6 @@
 # Mirza Ishraq
 
-**AI & Backend Software Developer | Python, Django, AWS**
+**AI & Backend Software Developer**
 
 Hello! I'm Mirza Ishraq, a software developer based in San Diego who has been building backend systems, data pipelines, and identity and access tooling since 2017, and more recently AI agents and LLM features.
 

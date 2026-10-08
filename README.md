@@ -57,6 +57,12 @@ Python, Bash, and LDAP automation for 10k+ user accounts, plus an API-driven pro
 
 ## What I've built
 
+**Skyborne** ![GitHub stars](https://img.shields.io/github/stars/ishraq21/skyborne?style=flat)
+An open-source tool that shows your Claude Code agents working live in a 3D sky city. Each session is a floating district and each agent is a small robot, so you can see who's working, who's stuck, and who needs you, then approve or deny their requests right from the city. It runs only on your computer, with no account and no telemetry, and installs from PyPI.
+
+[![skyborne.dev](https://img.shields.io/badge/skyborne.dev-08090A?style=for-the-badge&logoColor=white)](https://skyborne.dev)
+[![Skyborne](https://img.shields.io/badge/Skyborne-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishraq21/skyborne)
+
 **Tradion Labs**
 An AI platform for financial research and trading behavioral analysis. It brings quantitative research, AI-driven analysis, earnings intelligence, and trade autopsy into one workspace, so it can surface your recurring trading mistakes and generate research and backtests without any code.
 
